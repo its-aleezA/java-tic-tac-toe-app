@@ -1,4 +1,4 @@
-# ⭕ Tic Tac Toe in Java
+# ❌⭕ Tic Tac Toe in Java
 
 A classic Tic Tac Toe game implemented in Java with a polished SWT GUI interface. This project demonstrates object-oriented programming principles and GUI development with Eclipse's Standard Widget Toolkit.
 
@@ -67,7 +67,7 @@ This project was developed by **[Aleeza Rizwan]** as a learning exercise to:
 
 ---
 
-## Planned Improvements:
+## 🔨 Planned Improvements:
 - [ ] Add player score tracking  
 - [ ] Implement an AI opponent with difficulty levels  
 - [ ] Create theme selector (dark/light/pastel modes)  
