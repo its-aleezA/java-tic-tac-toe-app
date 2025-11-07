@@ -57,6 +57,12 @@ To run:
 
 ---
 
+## 📸 Demo
+
+![Demo GIF](images/tic-tac-toe-demo.gif)
+
+---
+
 ## 🤝 Collaborators
 
 This project was developed by **[Aleeza Rizwan]** as a learning exercise to:  
